@@ -16,15 +16,16 @@
 
 ## 🚀 About Me
 
-```yaml
-Name: Rishika Nandi
-Education: Computer Science & Engineering
- 🤔Interests:
-  - Web Development
-  - AI / Machine Learning
-  - Competitive Programming
-  - Open Source
-🌱Currently Learning:
-  - CRUD oeprations
-  - Data Structures & Algorithms
-  - ML fundamentals
+👋 Hey there! I'm **Rishika Nandi**, a passionate  
+🎓 **Computer Science & Engineering** student who loves building, learning, and exploring tech.
+
+### 💡 Interests
+- 🌐 Web Development
+- 🤖 AI & Machine Learning
+- 🧩 Competitive Programming
+- 🌟 Open Source
+
+### 🌱 Currently Learning
+- ⚡ CRUD Operations
+- 📚 Data Structures & Algorithms
+- 🧠 Machine Learning Fundamentals
